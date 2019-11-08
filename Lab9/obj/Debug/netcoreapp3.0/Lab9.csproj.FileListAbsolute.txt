@@ -1,0 +1,11 @@
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.exe
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.deps.json
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.runtimeconfig.json
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.runtimeconfig.dev.json
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.dll
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.pdb
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.csprojAssemblyReference.cache
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.AssemblyInfo.cs
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.dll
+C:\Users\Ishwa\Documents\GrandCircus\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.pdb
